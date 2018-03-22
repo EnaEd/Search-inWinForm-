@@ -1,0 +1,14 @@
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\bin\Debug\WindowsForms(SearchFile).exe.config
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\bin\Debug\WindowsForms(SearchFile).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\bin\Debug\WindowsForms(SearchFile).pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms_SearchFile_.Form1.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms_SearchFile_.Form2.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms_SearchFile_.Properties.Resources.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms(SearchFile).csproj.GenerateResource.Cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms(SearchFile).exe
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms(SearchFile).pdb
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms(SearchFile).csprojResolveAssemblyReference.cache
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms_SearchFile_.Form3.resources
+c:\users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms_SearchFile_.Form4.resources
+C:\Users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms_SearchFile_.MainFormWithWorks.resources
+C:\Users\djazi\onedrive\документы\visual studio 2017\Projects\WindowsForms(SearchFile)\WindowsForms(SearchFile)\obj\Debug\WindowsForms_SearchFile_.Form5.resources
